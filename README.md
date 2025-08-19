@@ -85,3 +85,15 @@ Minor UI improvements and polish
 
 Stable version ready for submission
 
+📷 Screenshots
+
+📌 Home Page
+📌 Login Page
+📌 Admin Dashboard
+📌 Cashier Dashboard
+📌 Customer Dashboard
+📌Add customer page
+📌Add Cashier Page
+📌Add item page
+📌Calculate bill 
+📌Help
