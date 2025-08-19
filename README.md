@@ -55,11 +55,11 @@ private static final String DB_URL = "jdbc:mysql://localhost:3306/pahana_booksho
 Username: admin
 Password: admin123
 
--
+
 📝 Release Notes
--🔖 v1.0 – Initial Release (18-Aug-2025)
+🔖 v1.0 – Initial Release (18-Aug-2025)
 First release of the Pahana Online Book Shop system.Core modules implemented: Customer management, cashier management, item (book) database, and billing.Admin login & authentication included.
--🔖 v1.1 – Added database.sql with table structures and sample data (18-Aug-2025)
+🔖 v1.1 – Added database.sql with table structures and sample data (18-Aug-2025)
 Added database sql file with all table structures and sample data for easy setup.
 🔖 v1.2 – Bug Tracking Update (19-Aug-2025)
 Bill Printing Issue
@@ -70,7 +70,7 @@ Customer delete now works correctly
 🔖 v1.4 – Final Submission Release (20-Aug-2025)
 Minor UI improvements and polish
 Stable version ready for submission
--
+
 📷 Screenshots
 
 📌Home Page
