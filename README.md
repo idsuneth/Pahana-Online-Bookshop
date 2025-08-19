@@ -29,19 +29,59 @@
 ---
 
 ## ⚙️ Setup Instructions  
+### 1️⃣ Clone Repository
 
- Clone Repository  
-```bash
-git clone https://github.com/idsuneth/Pahana-Online-Bookshop.git
+>git clone https://github.com/idsuneth/Pahana-Online-Bookshop.git
+
+### 2️⃣ Import in Eclipse
+>Import in Eclipse
+
+✅File → Import → Existing Maven Project → Select folder
+
+### 3️⃣ Database Setup
+
+>Run database.sql in MySQL (XAMPP or Workbench)
+>Update credentials in DBConnection.java if needed:
+
+private static final String USERNAME = "root";
+private static final String PASSWORD = "yourpassword";
+private static final String DB_URL = "jdbc:mysql://localhost:3306/pahana_bookshop";
+
+4️⃣ Run Project
+
+>Launch from Eclipse
+>Default Admin Login:
+
+Username: admin
+Password: admin123
+
 ---
-Import in Eclipse
+📝 Release Notes
+🔖 v1.0 – Initial Release (17-Aug-2025)
 
-File → Import → Existing Maven Project → Select folder
+Admin authentication implemented
 
-Database Setup
+🔖 v1.1 – Feature Update (18-Aug-2025)
 
-Run database.sql in MySQL (XAMPP or Workbench)
+Added Book Search functionality
 
-Update credentials in DBConnection.java if needed:
+Improved book listings with filters
 
----  
+🔖 v1.2 – Bug Tracking Release (19-Aug-2025)
+
+Added Bill Printing Issue as a known bug (prints entire page instead of bill section)
+
+🔖 v1.3 – Bug Fix Release (19-Aug-2025)
+
+Fixed Customer Delete Bug caused by foreign key constraints
+
+Customer delete now works correctly
+
+Bill Printing Issue still pending
+
+🔖 v1.4 – Final Submission Release (20-Aug-2025)
+
+Minor UI improvements and polish
+
+Stable version ready for submission
+
