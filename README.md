@@ -57,32 +57,18 @@ Password: admin123
 
 ---
 📝 Release Notes
-🔖 v1.0 – Initial Release (17-Aug-2025)
-
-Admin authentication implemented
-
-🔖 v1.1 – Feature Update (18-Aug-2025)
-
-Added Book Search functionality
-
-Improved book listings with filters
-
-🔖 v1.2 – Bug Tracking Release (19-Aug-2025)
-
-Added Bill Printing Issue as a known bug (prints entire page instead of bill section)
-
-🔖 v1.3 – Bug Fix Release (19-Aug-2025)
-
-Fixed Customer Delete Bug caused by foreign key constraints
-
+🔖 v1.0 – Initial Release (18-Aug-2025)
+First release of the Pahana Online Book Shop system.Core modules implemented: Customer management, cashier management, item (book) database, and billing.Admin login & authentication included.
+🔖 v1.1 – Added database.sql with table structures and sample data (18-Aug-2025)
+Added database sql file with all table structures and sample data for easy setup.
+🔖 v1.2 – Bug Tracking Update (19-Aug-2025)
+Bill Printing Issue
+Problem: When generating a bill, the system prints the entire page instead of just the bill section.
+🔖 v1.3 – Customer Delete Function Error – Fixes (19-Aug-2025)
+Resolved Customer Delete Bug caused by foreign key constraints
 Customer delete now works correctly
-
-Bill Printing Issue still pending
-
 🔖 v1.4 – Final Submission Release (20-Aug-2025)
-
 Minor UI improvements and polish
-
 Stable version ready for submission
 
 📷 Screenshots
