@@ -97,3 +97,10 @@ Stable version ready for submission
 📌Add item page
 📌Calculate bill 
 📌Help
+
+👨‍💻 Author
+
+H.M.I.D sUNETH
+🎓 CIS6003 – Advanced Programming
+
+⭐ If you like this project, don’t forget to star the repo on GitHub!
