@@ -79,7 +79,7 @@ Stable version ready for submission
 
 👨‍💻 Author
 
-H.M.I.D sUNETH
+H.M.I.D SUNETH
 🎓 CIS6003 – Advanced Programming
 
 ⭐ If you like this project, don’t forget to star the repo on GitHub!
